@@ -39,39 +39,33 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/novedades">
                             <i class="fas fa-tachometer-alt"></i>
-                            Administrar Ofertas
+                            Ingresar Establecimiento
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <i class="fas fa-file-alt"></i>
+                            Crear Informe
                         </a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
                             aria-expanded="false">
                             <i class="fas fa-columns"></i>
-                            Pedidos y Reservas
+                            Informes 
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Pedidos</a></li>
+                            <li><a class="dropdown-item" href="#">Pendientes</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#">Reservas</a></li>
+                            <li><a class="dropdown-item" href="#">Enviados</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">
-                            <i class="fas fa-file-alt"></i>
-                            Pages
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
                             <i class="fas fa-chart-bar"></i>
-                            Charts
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            <i class="fas fa-table"></i>
-                            Tables
+                            Calendario de Visitas
                         </a>
                     </li>
                 </ul>
